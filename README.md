@@ -1,7 +1,10 @@
 # Debate_Webscraper
 Arguments, Votes, User Information Scraper for Debate.org
+
 Shilong Wang, Sungbin Youk, & René Weber*
+
 Media Neuroscience Lab - UC Santa Barbara
+
 *A special acknowledgment and thank you to research assistant Shilong who foremost developed this notebook as part of a summer project in 2021 with the supervision of Sungbin Youk and René Weber.
 
 
